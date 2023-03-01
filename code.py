@@ -1,6 +1,7 @@
-# Copyright (C) 2022  Jadiel Zuñiga Rodriguez
+# Copyright (C) 2022  Miguel Ángel Zamorano Presa
+#                     Jadiel Zuñiga Rodriguez
 #                     Luis Aarón Nieto Cruz
-#                     Miguel Ángel Zamorano Presa
+#                     
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
